@@ -1,10 +1,8 @@
-﻿# primegatesinsurancecompany
+# Primegates Insurance
 
-Primegates Consultants Insurance Agency
+<img src="./assets/header.svg" width="100%" alt="Primegates Insurance" />
 
-## Stack
-
-react Â· vite Â· typescript
+IRA regulated. Auto, health, life, and business cover in Nairobi.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
