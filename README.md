@@ -1,8 +1,12 @@
 # Primegates Insurance
 
-<img src="./assets/header.svg" width="100%" alt="Primegates Insurance" />
+IRA-regulated insurance agency site, Nairobi.
 
-IRA regulated. Auto, health, life, and business cover in Nairobi.
+**Status:** brand site
+
+## Stack
+
+React, TypeScript, Vite
 
 ## Run locally
 
